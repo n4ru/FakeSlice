@@ -1,0 +1,2 @@
+copy %programdata%\Lenovo\ImController\Plugins\ThinkBatteryPlugin\x86\Lenovo.Modern.Portable.Battery.dll Lenovo.Modern.Portable.Battery.dll
+copy %programdata%\Lenovo\ImController\Plugins\ThinkBatteryPlugin\x86\Plugins.Battery.Think.Native.dll Plugins.Battery.Think.Native.dll
