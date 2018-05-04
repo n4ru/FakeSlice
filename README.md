@@ -16,3 +16,5 @@ The included release binary will toggle your setting when launched without any c
 ## To-Do
 
 Fakeslice currently only supports single battery ThinkPads. Support for Power Bridge enabled systems should be coming in a few days, which will allow you to disable internal battery charging. The current version will only disable charging the battery internally marked as the primary.
+
+### Credits to [Ciastix](https://github.com/Ciastex) for helping expose Lenovo's proprietary interface.
