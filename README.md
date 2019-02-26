@@ -15,6 +15,6 @@ Alternatively, change to the directory where the DLLs and `FakeSlice.cs` are and
 
 ## Run
 
-Running the application with the argument `on` will turn the FakeSlice "on" - which will disable charging and run off your Power Bank. Running the application with the argument `off` will turn the FakeSlice "off" and charge the internal battery. Running the application without any commandline arguments will toggle your setting when launched. This should allow you to use FakeSlice in your scripts with ease, and without any arguments FakeSlice works great when bound to a hotkey (ike `Fn + F12`) using Lenovo Vantage.
+Running the application with the argument `on` will turn the FakeSlice "on" - which will disable charging and run off your Power Bank. Running the application with the argument `off` will turn the FakeSlice "off" and charge the internal battery. Running the application without any commandline arguments will toggle your setting when launched. This should allow you to use FakeSlice in your scripts with ease, and without any arguments FakeSlice works great when bound to a hotkey (like `Fn + F12`) using Lenovo Vantage.
 
 ### Credits to [Ciastix](https://github.com/Ciastex) for helping expose Lenovo's proprietary interface.
