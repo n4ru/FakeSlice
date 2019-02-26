@@ -9,7 +9,7 @@ This application requires Lenovo Vantage to be installed, but doesn't require yo
 
 Just throw `FakeSlice.cs` into your favorite C# compiler, target .NET Framework 4.5, and add the two required references - `Plugins.Battery.Think.Native.dll` & `Lenovo.Modern.Portable.Battery.dll`, then compile as Windows Application. 
 
-Alternatively, change to the directory where the DLLs and `FakeSlice.cs` is and run the following: `\Windows\Microsoft.NET\Framework\v4.0.30319\csc.exe /platform:x86 FakeSlice.cs /r:Lenovo.Modern.Portable.Battery.dll /r:Plugins.Battery.Think.Native.dll`.
+Alternatively, change to the directory where the DLLs and `FakeSlice.cs` are and run the following: `\Windows\Microsoft.NET\Framework\v4.0.30319\csc.exe /platform:x86 FakeSlice.cs /r:Lenovo.Modern.Portable.Battery.dll /r:Plugins.Battery.Think.Native.dll`.
 
 ## Run
 
